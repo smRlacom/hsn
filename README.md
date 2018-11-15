@@ -5,9 +5,9 @@
  <title>hvlst server note</title>
 </head>
 <body>
- <a href="ÄÚµå 2.html">ºñ¹Ð¹øÈ£ ÀÔ·ÂÇÏ±â</a>
+ <a href="코드 2.html">비밀번호 입력하기</a>
 </body>
-</html> 
+</html>
 <!DOCTYPE html>
 <html>
 <head>
